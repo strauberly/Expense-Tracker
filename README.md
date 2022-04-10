@@ -8,6 +8,10 @@ This project's completion will demonstrate some of what I have learned through t
 
 ---
 
+-11 Apr 2022-
+
+Creation of ExpenseItem component and discussion on separating out components to keep project manageable and easy to disect.
+
 ---
 
 -29 Mar 2022-
