@@ -8,7 +8,19 @@ This project's completion will demonstrate some of what I have learned through t
 
 ---
 
+-12 Apr 2022
+
+Today's lectures covered event handlers, execution order of component functions, working with State and the state hook, and we started adding a form for the user to create a new entry into the expense tracker.
+
+---
+
 -11 Apr 2022-
+
+Creation of more components related to expenses and management of more project files. Lectures also focused on passing data between components through the use of props. Also more focus on JSX and how it works.
+
+---
+
+-10 Apr 2022-
 
 Creation of ExpenseItem component and discussion on separating out components to keep project manageable and easy to disect.
 
