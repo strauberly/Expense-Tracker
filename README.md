@@ -8,13 +8,25 @@ This project's completion will demonstrate some of what I have learned through t
 
 ---
 
--13 Apr 2022
+-17 Apr 2022-
 
-After adding input fields we then set up our listners and implemented two-way binding in order to reset the form. Afterwards we discussed component communication focused on child to parent nodes aka bottom up.
+Filter is now functional and expenses are being loaded dynamically and can take new expenses. Discussed conditional content and reviewed potential solutions. Implemented displaying input fields when button pressed and returning to the default state if cancel button is pressed.
 
 ---
 
--12 Apr 2022
+-14 Apr 2022-
+
+Completed section by adding a filter component(presentational only at the moment) Discussing lifting state and controllers in React and then testing our knowledge with mini quiz.
+
+---
+
+-13 Apr 2022-
+
+After adding input fields we then set up our listeners and implemented two-way binding in order to reset the form. Afterwards we discussed component communication focused on child to parent nodes aka bottom up.
+
+---
+
+-12 Apr 2022-
 
 Today's lectures covered event handlers, execution order of component functions, working with State and the state hook, and we started adding a form for the user to create a new entry into the expense tracker.
 
