@@ -8,6 +8,13 @@ This project's completion will demonstrate some of what I have learned through t
 
 ---
 
+-20 Apr 2022-
+
+Added a chart mapped to our monthly expenses by mapping data points and we implement som dynamic css styling though the css elements are not yet scoped.
+This concludes the example application.
+
+---
+
 -17 Apr 2022-
 
 Filter is now functional and expenses are being loaded dynamically and can take new expenses. Discussed conditional content and reviewed potential solutions. Implemented displaying input fields when button pressed and returning to the default state if cancel button is pressed.
